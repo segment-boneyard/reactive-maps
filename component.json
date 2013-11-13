@@ -1,0 +1,6 @@
+{
+  "name": "reactive-maps",
+  "version": "0.0.1",
+  "description": "Google Maps for Reactive",
+  "scripts": ["index.js"]
+}
