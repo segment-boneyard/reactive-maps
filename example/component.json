@@ -1,0 +1,12 @@
+{
+  "name": "reactive-maps-example",
+  "version": "0.0.1",
+  "description": "Google Maps for Reactive Example",
+  "dependencies": {
+    "component/reactive": "*",
+    "segmentio/reactive-maps": "*"
+  },
+  "scripts": [
+    "index.js"
+  ]
+}
